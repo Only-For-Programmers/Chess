@@ -1,5 +1,3 @@
-//how to check winning
-//when i will lose it will not let me take any step so i need to give logic for this scenario to give winning.
 
 
 var turn = 1;   //keep track of turn
